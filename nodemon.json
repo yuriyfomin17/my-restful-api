@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "Fomin2012",
+    "MONGO_USER": "yuriy_fomin17",
+    "MONGO_DB_NAME": "todo"
+  }
+}
